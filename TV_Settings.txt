@@ -1,0 +1,8 @@
+Manufacturer: Samsung|
+Model: UN55MU9000FXZA|
+Inch: 55|
+HD: 1|
+Brightness: 45|
+Contrast: 60|
+VolumeCurrent: 6|
+ChannelCurrent: 5|
